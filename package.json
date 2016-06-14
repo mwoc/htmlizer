@@ -5,7 +5,7 @@
     "version": "0.8.0",
     "main": "src/Htmlizer.js",
     "dependencies": {
-        "jsdom": "0.10.3"
+        "jsdom": "1.5.0"
     },
     "devDependencies": {
         "mocha": "1.18.2"
